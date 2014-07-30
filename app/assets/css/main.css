@@ -10,6 +10,20 @@ body {
     padding:0px;
 }
 
+header {
+  position: relative;
+  padding: 30px;
+}
+
+header ul {
+  position: relative;
+  margin:0px;
+  padding:0px;
+  list-style: none;
+}
+header ul li{width: 200px;}
+
+
 #svg {
     position:relative;
     width: 900px;

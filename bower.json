@@ -1,0 +1,23 @@
+{
+  "name": "base-app",
+  "version": "0.0.1",
+  "homepage": "/app/index.html",
+  "authors": [
+    "Jordi Llobet <jordi@kentlyons.com>"
+  ],
+  "main": "app/index.html",
+  "moduleType": [
+    "node",
+    "yui"
+  ],
+  "keywords": [
+    "js",
+    "html",
+    "css"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "d3": "~3.4.6",
+    "jquery": "~2.1.1"
+  }
+}
